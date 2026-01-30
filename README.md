@@ -1,3 +1,30 @@
+# 💫 Hi 👋, I'm Vaibhav Borkar
+**A passionate Java Developer || Spring Boot Developer** 
+
+Email Me 👉 ✉️ **vaibhavborkar8390@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Java & Spring Boot based backend applications, REST APIs, and real-world enterprise projects
+- 🌱 **I’m currently learning:** Advanced Java, Spring Boot Microservices, System Design, SQL Optimization, and Data Structures
+- 👯 **I’m looking to collaborate on:** Open-source Java projects, Spring Boot backend systems, REST API development, and Microservices-based applications
+- 🤔 **I’m looking for help with:** System Design, High-performance backend architecture, and scalable application development
+- 💬 **Ask me about:** Java, Spring Boot, Hibernate, REST APIs, MySQL, Git, Backend Development, Interview Preparation
+- 📫 **How to reach me:** **vaibhavborkar8390@gmail.com**
+- 😄 **Pronouns:** He / Him
+- ⚡ **Fun fact:** I love solving real-world problems using clean and efficient code 🚀
+
+## 🔗 I am a Content Creator. 😊😊
+
+Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
+
+[![Techno Snag YouTube Channel](https://img.shields.io/badge/YouTube-Techno%20Snag-red?logo=youtube&logoColor=white)](https://www.youtube.com/technosnag) [![Techno Snag Instagram](https://img.shields.io/badge/Instagram-Techno%20Snag-pink?logo=instagram&logoColor=white)](https://www.instagram.com/technosnag) [![Techno Snag Facebook](https://img.shields.io/badge/Facebook-Techno%20Snag-blue?logo=facebook&logoColor=white)](https://www.facebook.com/technosnag) [![Techno Snag Twitter](https://img.shields.io/badge/Twitter-Techno%20Snag-lightblue?logo=twitter&logoColor=white)](https://twitter.com/technosnag)
+
+[![](https://visitcount.itsvg.in/api?id=alamimran613&icon=1&color=4)](https://visitcount.itsvg.in)
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vaibhav.borkar)
