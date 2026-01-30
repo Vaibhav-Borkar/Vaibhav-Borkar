@@ -53,10 +53,13 @@ Email Me 👉 ✉️ **vaibhavborkar8390@gmail.com** For Collaboration/Project o
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
 ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vaibhav-Borkar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Vaibhav-Borkar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-Borkar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+# 📊 GitHub Stats
+
+<div align="center">
+  <!-- Streak Stats -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Vaibhav-Borkar&theme=dark&hide_border=false" alt="GitHub Streak" width="400" />
+</div>
 
 <!-- Snake Game Repo View -->
 
@@ -64,5 +67,8 @@ Email Me 👉 ✉️ **vaibhavborkar8390@gmail.com** For Collaboration/Project o
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Dev Quote
+<div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"  />
+</div>
+
