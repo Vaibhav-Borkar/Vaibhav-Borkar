@@ -13,10 +13,10 @@ Email Me 👉 ✉️ **vaibhavborkar8390@gmail.com** For Collaboration/Project o
 - ⚡ **Fun fact:** I love solving real-world problems using clean and efficient code 🚀
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vaibhav.borkar)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_borkarvaibhav)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/vaibhav-borkar](https://www.linkedin.com/in/vaibhavborkarr/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@vaibhavborkar)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]()
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)]()
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhavborkar8390@gmail.com) 
 
 # 💻 Tech Stack:
